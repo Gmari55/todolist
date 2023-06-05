@@ -1,0 +1,9 @@
+.todoitem{
+    border: 1px solid;
+    border-radius: 15px;
+    margin: 10px 150px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    
+}
